@@ -1,0 +1,9 @@
+../Core/Src/led.c:38:6:ledOn	24	static
+../Core/Src/led.c:48:6:ledOff	24	static
+../Core/Src/led.c:58:6:ledToggle	16	static
+../Core/Src/led.c:63:6:ledLeftShift	24	static
+../Core/Src/led.c:72:6:ledLeftShift_Start	8	static
+../Core/Src/led.c:80:6:ledLeftShift_Stop	16	static
+../Core/Src/led.c:87:6:ledLefRightShift_Task	16	static
+../Core/Src/led.c:118:6:ledLeftShift_Task	16	static
+../Core/Src/led.c:137:6:ledRightShift_Task	16	static

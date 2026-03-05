@@ -1,0 +1,9 @@
+../Core/Src/led.c:38:6:ledOn	2
+../Core/Src/led.c:48:6:ledOff	2
+../Core/Src/led.c:58:6:ledToggle	1
+../Core/Src/led.c:63:6:ledLeftShift	2
+../Core/Src/led.c:72:6:ledLeftShift_Start	1
+../Core/Src/led.c:80:6:ledLeftShift_Stop	1
+../Core/Src/led.c:87:6:ledLefRightShift_Task	5
+../Core/Src/led.c:118:6:ledLeftShift_Task	3
+../Core/Src/led.c:137:6:ledRightShift_Task	4

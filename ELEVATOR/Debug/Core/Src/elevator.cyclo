@@ -1,0 +1,12 @@
+../Core/Src/elevator.c:57:6:btn_tPressed	5
+../Core/Src/elevator.c:86:6:btnCheck	3
+../Core/Src/elevator.c:95:6:elvinit	3
+../Core/Src/elevator.c:118:6:res	14
+../Core/Src/elevator.c:177:6:fl_check	3
+../Core/Src/elevator.c:196:6:Do	21
+../Core/Src/elevator.c:291:6:MT	5
+../Core/Src/elevator.c:304:6:preGoal	11
+../Core/Src/elevator.c:337:6:ABSGoing	8
+../Core/Src/elevator.c:370:6:Goal	10
+../Core/Src/elevator.c:406:6:Going	12
+../Core/Src/elevator.c:449:6:Open	15
