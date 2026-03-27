@@ -1,3 +1,7 @@
+### 📘 프로젝트 상세 설명
+
+&nbsp;&nbsp;&nbsp;[![Notion](https://img.shields.io/badge/Notion-설명%20바로가기-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31045465d27181ccb20dff8ea12b6a8c)
+
 • **엘리베이터 제어 및 스마트 냉·난방 시스템**
 
 대규모 확장이 가능한 엘리베이터 제어 시스템과 온습도 기반 스마트 냉·난방 실외기 자동 제어 로직을 통합 구현하였다.  
